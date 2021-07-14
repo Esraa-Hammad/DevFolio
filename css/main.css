@@ -152,9 +152,9 @@
  }
  @media (min-width: 768px) and (max-width:992px) {
  .home-info h1{font-size: 40px !important;}
-    .home{height:550px !important;}
+    .home{height:600px !important;}
       .a-about{height: 800px !important;}  
-    #about{padding-bottom: 200px;}  
+/*     #about{padding-bottom: 200px;}   */
     #services{height: 1300px !important;}
     .port-icon{padding-left: 0 !important;}
     .te-st{height: 900px !important; }
